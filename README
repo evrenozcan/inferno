@@ -1,0 +1,17 @@
+
+Inforno is an experimental low level, platform independent,
+canvas based graphichs library that designed for mobile devices.
+
+Inferno was designed and developed in a day or two so currently it is experimental 
+however it is still capable providing cool apps.
+
+I added anroid implementaion and a android game using this library, 
+The game has many nested windows and animation examples within. 
+
+The framework makes it easy to create platform independent nested windows
+layers and custom compoents, It contains some APIs for canvas based 2d game programming 
+(Sound managers etc). Its  built in high perf 
+engine also capable of complicated graphic processing and propagating events from UI thread
+as well as other sources (Accelorometer etc.). The engine also enables
+developer to queue sub process which can be run synch on asynch.
+There are also many built in animations (slied, shake fade affect..)
